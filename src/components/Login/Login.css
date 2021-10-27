@@ -1,0 +1,13 @@
+.login {
+  padding: 80px 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+.login input {
+  padding: 5px;
+  width: 100%;
+  margin-bottom: 20px;
+}
